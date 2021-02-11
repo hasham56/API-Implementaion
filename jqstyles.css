@@ -1,0 +1,28 @@
+.page {
+  margin: 5%;
+  margin-top: 0%;
+}
+
+.heading {
+  background-color: rgb(30, 30, 30);
+  color: azure;
+  padding: 3%;
+  border-radius: 20%;
+  text-align: center;
+}
+
+.card {
+  padding: 0;
+  border-top-right-radius: 20%;
+  border-top-left-radius: 20%;
+  max-width: 47%;
+  max-width: 47%;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.navbar {
+  color: azure;
+}
